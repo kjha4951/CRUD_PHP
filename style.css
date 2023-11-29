@@ -1,0 +1,33 @@
+
+
+body{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color:white ;
+}
+.container{
+    background-color: rgb(203, 174, 174);
+    padding: 100px 70px 100px 70px;
+    border-radius: 10px;
+    /* background-color: transparent; */
+}
+
+table{
+   background-color: rgb(166, 191, 213);
+}
+input{
+    /* margin:11px auto; */
+}
+
+input[type="submit"] {
+    color: white;
+    background-color: rgb(55, 55, 239);
+    border: none;
+    border-radius: 10px;
+}
